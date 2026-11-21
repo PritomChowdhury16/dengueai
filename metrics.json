@@ -1,0 +1,11 @@
+{
+    "regression": {
+        "MAE": 2.9,
+        "RMSE": 5.21,
+        "R2": 0.77
+    },
+    "classification": {
+        "accuracy": 0.759,
+        "macro_f1": 0.71
+    }
+}
